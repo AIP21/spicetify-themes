@@ -595,7 +595,7 @@ li.GlueDropTarget {
 #dribbblish-back-shadow {
     position: fixed;
     width: var(--main-view-width);
-    height: calc(var(--main-view-height) + var(--bar-height));
+    height: calc(var(--main-view-height) + var(--bar-height) - 7px);
     box-shadow: 0 0 10px 3px #0000003b;
     border-radius: var(--main-corner-radius);
     z-index: 2;
