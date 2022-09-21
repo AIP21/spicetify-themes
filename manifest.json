@@ -49,7 +49,7 @@
 		"usercss": "Dribbblish/user.css",
 		"schemes": "Dribbblish/color.ini",
 		"include": [
-			"https://raw.githubusercontent.com/spicetify/spicetify-themes/master/Dribbblish/dribbblish.js"
+			"https://raw.githubusercontent.com/AIP21/spicetify-themes/master/Dribbblish/dribbblish.js"
 		],
 		"authors": [
 			{
