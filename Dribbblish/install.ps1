@@ -7,7 +7,7 @@ if ($null -eq $checkSpice) {
 
 Write-Host "Downloading themes package:" -ForegroundColor Green
 $zipFile = "$env:TEMP\spicetify-themes.zip"
-Invoke-WebRequest "https://github.com/spicetify/spicetify-themes/archive/refs/heads/master.zip" -OutFile $zipFile
+Invoke-WebRequest "https://github.com/AIP21/spicetify-themes/archive/refs/heads/master.zip" -OutFile $zipFile
 
 Write-Host "Extracting themes package:" -ForegroundColor Green
 $extractPath = "$env:TEMP\spicetify-themes-master"
